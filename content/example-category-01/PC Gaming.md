@@ -5,9 +5,9 @@ title: Category 01
 
 ### What is this page?
 
-This is an example category index page inside the knowledge base. This page is located within the `example-category-01` folder, which is located within the `content/` folder. 
+This is a website about all of the PC games listed from A-Z.
 
-On your local computer, this page corresponds to the file path: `content/example-category-01/index.md`.
+On your local computer, this page corresponds to the file path: `content/example-category-01/PC-Gaming.md`.
 
 ### Naming a category page's index
 
