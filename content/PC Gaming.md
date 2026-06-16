@@ -3,7 +3,7 @@ title: Template for Knowledge Base Docs Websites
 ---
 ## The index page
 
-This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
+This is my website for CMPA 3302 which serves as a list of PC Games from 2010-2026.
 
 ## Editing pages
 
